@@ -26,7 +26,7 @@ github_username:  zhangyouxin
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: minina
 plugins:
   - jekyll-feed
 
