@@ -1,3 +1,0 @@
-## Welcome to GitHub Pages
-
-getting started with Jekyll...
